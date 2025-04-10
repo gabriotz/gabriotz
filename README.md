@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Bandeira de Pernambuco](https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandeira_de_Pernambuco_animada.gif)
+
 <!--
 **gabriotz/gabriotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
